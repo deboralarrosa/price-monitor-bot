@@ -1,0 +1,6 @@
+{
+  "product_name": "Noise-Canceling Wireless Headphones",
+  "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+  "target_price": 60.00,
+  "css_selector": ".price_color"
+}
